@@ -1,0 +1,15 @@
+D:\Zarylbekov Rabota\Aomine\bin\Debug\net7.0\Aomine.exe
+D:\Zarylbekov Rabota\Aomine\bin\Debug\net7.0\Aomine.deps.json
+D:\Zarylbekov Rabota\Aomine\bin\Debug\net7.0\Aomine.runtimeconfig.json
+D:\Zarylbekov Rabota\Aomine\bin\Debug\net7.0\Aomine.dll
+D:\Zarylbekov Rabota\Aomine\bin\Debug\net7.0\Aomine.pdb
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.csproj.AssemblyReference.cache
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.AssemblyInfoInputs.cache
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.AssemblyInfo.cs
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.csproj.CoreCompileInputs.cache
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.dll
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\refint\Aomine.dll
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.pdb
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\Aomine.genruntimeconfig.cache
+D:\Zarylbekov Rabota\Aomine\obj\Debug\net7.0\ref\Aomine.dll
